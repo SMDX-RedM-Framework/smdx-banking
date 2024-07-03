@@ -11,7 +11,7 @@ Config.StorageMaxSlots = 5
 ---------------------------------
 Config.Keybind    = 'J'
 Config.OpenTime   = 8 -- hrs : 24hour clock
-Config.CloseTime  = 17 -- hrs : 24hour clock
+Config.CloseTime  = 19 -- hrs : 24hour clock
 Config.AlwaysOpen = true -- sets bank always open if set to true
 Config.UseTarget  = false
 
